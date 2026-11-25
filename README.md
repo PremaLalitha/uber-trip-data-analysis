@@ -85,27 +85,6 @@ The advanced dashboard contains:
 - Operating bases B02682 and B02598 contribute the largest shares of pickups.
 - Pickup locations are heavily concentrated around New York City.
 
-## Project Structure
-
-```text
-Uber_Trip_Data_Analysis/
-│
-├── dataset/
-│   ├── uber-raw-data-apr14.csv
-│   └── uber_cleaned.csv
-│
-├── notebooks/
-│   └── Uber_Trip_Data_Analysis.ipynb
-│
-├── visualizations/
-│   ├── dashboard_page1.png
-│   └── dashboard_page2.png
-│
-├── README.md
-├── requirements.txt
-└── Uber_Trip_Analysis.pbix
-```
-
 ## How to Run the Project
 
 1. Clone or download this repository.
