@@ -103,7 +103,3 @@ The advanced dashboard contains:
 ## Limitations
 
 The dataset contains pickup date and time, pickup coordinates, and Uber operating base information. It does not contain drop-off locations, fares, trip duration, or passenger counts. Therefore, this project focuses only on pickup-demand analysis.
-
-## Author
-
-Developed as a Data Analytics portfolio project using Python and Power BI.
