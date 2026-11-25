@@ -1,4 +1,4 @@
-# Uber Trip Data Analysis – NYC (April 2014)
+# Uber Trip Data Analysis
 
 ## Project Overview
 
